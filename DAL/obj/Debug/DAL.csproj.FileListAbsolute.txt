@@ -1,0 +1,14 @@
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\bin\Debug\DAL.dll
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\bin\Debug\DAL.pdb
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\obj\Debug\DAL.dll
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\obj\Debug\DAL.pdb
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\bin\Debug\DAL.dll.config
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\bin\Debug\EntityFramework.dll
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\bin\Debug\EntityFramework.xml
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\obj\Debug\DAL.Migrations.EventManagementFinal.resources
+C:\Users\skmuh\source\repos\EventManagementFinal\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21FDAE00-BA7E-40CD-AEB6-D13F55FBF465}|EventManagementFinal\\EventManagementFinal.csproj|C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\eventmanagementfinal\\controllers\\rsvpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FDAE00-BA7E-40CD-AEB6-D13F55FBF465}|EventManagementFinal\\EventManagementFinal.csproj|solutionrelative:eventmanagementfinal\\controllers\\rsvpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FDAE00-BA7E-40CD-AEB6-D13F55FBF465}|EventManagementFinal\\EventManagementFinal.csproj|C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\eventmanagementfinal\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FDAE00-BA7E-40CD-AEB6-D13F55FBF465}|EventManagementFinal\\EventManagementFinal.csproj|solutionrelative:eventmanagementfinal\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FDAE00-BA7E-40CD-AEB6-D13F55FBF465}|EventManagementFinal\\EventManagementFinal.csproj|c:\\users\\skmuh\\source\\repos\\eventmanagementfinal\\eventmanagementfinal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FDAE00-BA7E-40CD-AEB6-D13F55FBF465}|EventManagementFinal\\EventManagementFinal.csproj|solutionrelative:eventmanagementfinal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3A9B4-692F-4E53-9082-B45462C31D53}|BLL\\BLL.csproj|C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\bll\\dtos\\rsvpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B3A9B4-692F-4E53-9082-B45462C31D53}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\rsvpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3A9B4-692F-4E53-9082-B45462C31D53}|BLL\\BLL.csproj|C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B3A9B4-692F-4E53-9082-B45462C31D53}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3A9B4-692F-4E53-9082-B45462C31D53}|BLL\\BLL.csproj|C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\bll\\services\\rsvpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B3A9B4-692F-4E53-9082-B45462C31D53}|BLL\\BLL.csproj|solutionrelative:bll\\services\\rsvpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D382128-9187-496F-9638-0174BB56FD6E}|DAL\\DAL.csproj|C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\dal\\ef\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D382128-9187-496F-9638-0174BB56FD6E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D382128-9187-496F-9638-0174BB56FD6E}|DAL\\DAL.csproj|C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\dal\\ef\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D382128-9187-496F-9638-0174BB56FD6E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D382128-9187-496F-9638-0174BB56FD6E}|DAL\\DAL.csproj|C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\dal\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D382128-9187-496F-9638-0174BB56FD6E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D382128-9187-496F-9638-0174BB56FD6E}|DAL\\DAL.csproj|C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D382128-9187-496F-9638-0174BB56FD6E}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\EventManagementFinal\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventManagementFinal\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\EventManagementFinal\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventManagementFinal\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:38:58.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\DAL\\EF\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\User.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\DAL\\EF\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:36:59.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RSVP.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\DAL\\EF\\RSVP.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\RSVP.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\DAL\\EF\\RSVP.cs",
+              "RelativeToolTip": "DAL\\EF\\RSVP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:36:09.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\DAL\\EF\\Event.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Event.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\DAL\\EF\\Event.cs",
+              "RelativeToolTip": "DAL\\EF\\Event.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:35:42.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RSVPService.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\BLL\\Services\\RSVPService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\RSVPService.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\BLL\\Services\\RSVPService.cs",
+              "RelativeToolTip": "BLL\\Services\\RSVPService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwFEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:11:06.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\EventManagementFinal\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventManagementFinal\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\EventManagementFinal\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventManagementFinal\\Controllers\\EventController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:34:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RSVPController.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\EventManagementFinal\\Controllers\\RSVPController.cs",
+              "RelativeDocumentMoniker": "EventManagementFinal\\Controllers\\RSVPController.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\EventManagementFinal\\Controllers\\RSVPController.cs",
+              "RelativeToolTip": "EventManagementFinal\\Controllers\\RSVPController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:48:56.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:33:18.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RSVPDTO.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\BLL\\DTOs\\RSVPDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\RSVPDTO.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\BLL\\DTOs\\RSVPDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\RSVPDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:50:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\skmuh\\source\\repos\\EventManagementFinal\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:58:38.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

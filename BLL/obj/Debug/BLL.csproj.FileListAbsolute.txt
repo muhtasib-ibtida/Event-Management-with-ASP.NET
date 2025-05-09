@@ -1,0 +1,14 @@
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\bin\Debug\BLL.dll
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\bin\Debug\DAL.dll
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\obj\Debug\BLL.dll
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\obj\Debug\BLL.pdb
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\bin\Debug\AutoMapper.dll
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\bin\Debug\DAL.dll.config
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\bin\Debug\AutoMapper.xml
+C:\Users\skmuh\source\repos\EventManagementFinal\BLL\bin\Debug\EntityFramework.xml
